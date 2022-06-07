@@ -1,8 +1,6 @@
 # Disciples Facts API
 This API pulls up some basic facts about the Twelve Disciples, such as how they died, how many books they wrote, and whether they were one of the Three or not.
 
--screenshot-
-
 **Link to project:** https://disciples-facts-api.herokuapp.com/
 
 ## How It's Made:
